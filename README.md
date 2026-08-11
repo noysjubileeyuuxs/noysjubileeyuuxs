@@ -6,16 +6,21 @@
 
 hiyyaaa lolll
 
-test.. test...
+test.. test.. hello ?
 
-<img width="500" height="344" alt="favorite character 1" src="https://github.com/user-attachments/assets/50199371-9084-45c7-b573-91f91e759a0b" />
+<img width="500" height="344" alt="1000029772" src="https://github.com/user-attachments/assets/0515c60a-3dce-4233-b866-fecd692ef84f" />
 
 
 
 ok so dont mind the few pics i lov having my fav chars in most of my pfs on things like dis ^_^
 
-![favorite character 2](https://github.com/user-attachments/assets/73d70495-1f49-4207-9f4f-975e82e12870)
+![1000029784](https://github.com/user-attachments/assets/382f24b2-6858-43ad-9ff7-43661976c8fd)
 
-![favorite character 3](https://github.com/user-attachments/assets/031b8c09-b2f1-4802-ba54-d91aa1257a84)
 
-![favorite character 4](https://github.com/user-attachments/assets/729ab948-4a1f-4d42-8b49-01bed01c879f)
+![1000029783](https://github.com/user-attachments/assets/568502b1-7df8-467e-8442-788f2ebc2110)
+
+
+<img width="736" height="414" alt="1000029767" src="https://github.com/user-attachments/assets/90ad0a7d-99df-4e35-b550-b49de5374010" />
+
+
+![1000029798](https://github.com/user-attachments/assets/ff573f4d-9506-4908-ae57-d80e556d8939)
