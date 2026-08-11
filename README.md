@@ -2,6 +2,8 @@ hiyyaaa lolll
 
 test.. test...
 
+[Profile View counter on Github] (https://noysjubileeyuuxs.com)
+
 <img width="500" height="344" alt="1000029772" src="https://github.com/user-attachments/assets/50199371-9084-45c7-b573-91f91e759a0b" />
 
 
