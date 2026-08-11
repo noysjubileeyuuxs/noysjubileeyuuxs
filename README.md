@@ -1,6 +1,8 @@
 <div align="center">
 
-
+<a href="https://github.com/noysjubileeyuuxs/noysjubileeyuuxs" aria-label="Repository link. Shows the number of views for this repository.">
+  <img src="https://img.shields.io/badge/dynamic/json?color=ffdd6e&label=Views&query=$.value&url=https://api.countapi.xyz/hit/noysjubileeyuuxs/noysjubileeyuuxs" alt="Repository view count" role="img" title="Repository view count — updates when README is loaded" />
+</a>
 
 </div>
 
