@@ -1,6 +1,6 @@
 <div align="center">
 
-[!#HEXffdd6e](https://noysjubileeyuuxs.com)
+
 
 </div>
 
