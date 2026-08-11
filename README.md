@@ -2,7 +2,8 @@ hiyyaaa lolll
 
 test.. test...
 
-<img width="398" height="398" alt="1000029771" src="https://github.com/user-attachments/assets/ce9dded2-5ed5-4d32-8635-37acfa28d95a" />
+<img width="500" height="344" alt="1000029772" src="https://github.com/user-attachments/assets/50199371-9084-45c7-b573-91f91e759a0b" />
+
 
 
 
