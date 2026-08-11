@@ -1,4 +1,4 @@
-![Profile views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20views&query=value&url=https://countapi.xyz/hit/noysjubileeyuuxs/noysjubileeyuuxs)
+![silly watchers](https://img.shields.io/badge/dynamic/json?color=yellow&label=silly%20watchers&query=value&url=https://countapi.xyz/hit/noysjubileeyuuxs/noysjubileeyuuxs)
 
 hiyyaaa lolll
 
