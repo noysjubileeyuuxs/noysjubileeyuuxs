@@ -1,6 +1,6 @@
 <div align="center">
 
-![silly watchers](https://img.shields.io/badge/dynamic/json?color=ffd700&label=silly%20watchers&query=$.value&url=https://api.countapi.xyz/hit/noysjubileeyuuxs/noysjubileeyuuxs&logoColor=white&labelColor=2d2d2d)
+<img>[silly watchers!!]
 
 </div>
 
