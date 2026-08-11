@@ -1,5 +1,7 @@
 <div 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=noysjubileeyuuxs&color=yellow&style=flat-square"alt="Profile Views" /></p>
+
 </div>
 
 hiyyaaa lolll
