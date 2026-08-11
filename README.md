@@ -1,3 +1,5 @@
+![Profile views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20views&query=value&url=https://countapi.xyz/hit/noysjubileeyuuxs/noysjubileeyuuxs)
+
 hiyyaaa lolll
 
 test.. test...
