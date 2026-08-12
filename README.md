@@ -12,7 +12,7 @@ test.. test.. hello ?
 
 
 
-ok so dont mind the few pics i lov having my fav chars in most of my pfs on things like dis ^_^
+ok so dont mind the few pics i lov having my fav chars in most of my pfs on things like dis ^_^ + ts bugs out a few times idfk why js ignore it ig
 
 ![1000029784](https://github.com/user-attachments/assets/382f24b2-6858-43ad-9ff7-43661976c8fd)
 
